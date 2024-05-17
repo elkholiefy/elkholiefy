@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Youssef(Hassan)El-Kholiefy, @elkholiefy
-- 👀 I’m interested in Full stack Development
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate with any international company to improve my skills 
-- 📫 How to reach me youssef.elkholiefy@gmail.com , +201156788024
+- 👀 I’m interested in Software Engineering & Business Analysis
+- 🌱 I’m currently learning Data visualization using python.
+- 📫 How to reach me youssef.elkholiefy@outlook.com , +201156788024
 
 <!---
 elkholiefy/elkholiefy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
